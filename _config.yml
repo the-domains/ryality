@@ -1,7 +1,7 @@
 name: RYALITY.
 favicon: null
-layout_spectrum: 0.1696138740517199
-typography_spectrum: 0.10074661276303232
+layout_spectrum: 1
+typography_spectrum: 0.49791
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3622825413476676
-  lightness: 0.8310026947874576
-  saturation: 0.9152121820952743
-  rhythmicContrast: 0.4091881744097918
+  brandStrength: 0.4375
+  lightness: 0.625
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
